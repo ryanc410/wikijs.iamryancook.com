@@ -2,12 +2,17 @@
 title: README Template for Github
 description: Written in Markdown
 published: true
-date: 2022-07-05T10:31:01.312Z
+date: 2022-07-05T10:32:01.925Z
 tags: github, readme
 editor: markdown
 dateCreated: 2022-07-05T10:31:01.312Z
 ---
 
+# BEST README Template for Github
+
+<br>
+
+````markdown
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -206,3 +211,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/github_username
+````
