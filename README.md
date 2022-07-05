@@ -1,0 +1,3 @@
+# wikijs
+
+Local Wikijs Storage
