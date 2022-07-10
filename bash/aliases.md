@@ -2,8 +2,8 @@
 title: Bash Aliases
 description: Useful Bash Aliases
 published: true
-date: 2022-07-09T16:23:36.910Z
-tags: bash, cli, aliases
+date: 2022-07-10T02:37:29.102Z
+tags: aliases, bash, cli
 editor: markdown
 dateCreated: 2022-07-09T16:23:36.910Z
 ---
@@ -12,6 +12,8 @@ dateCreated: 2022-07-09T16:23:36.910Z
 ````bash
 alias c='clear'
 alias s='sudo'
+
+alias services='systemctl list-units  --type=service  --state=running'
 
 alias install="sudo apt install $1 -y"
 alias web='cd /var/www/html'
