@@ -2,7 +2,7 @@
 title: Bash Aliases
 description: Useful Bash Aliases
 published: true
-date: 2022-07-10T02:38:41.391Z
+date: 2022-07-10T02:40:00.213Z
 tags: aliases, bash, cli
 editor: markdown
 dateCreated: 2022-07-09T16:23:36.910Z
