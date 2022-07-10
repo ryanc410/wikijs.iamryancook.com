@@ -2,7 +2,7 @@
 title: Bash Aliases
 description: Useful Bash Aliases
 published: true
-date: 2022-07-10T02:37:29.102Z
+date: 2022-07-10T02:38:41.391Z
 tags: aliases, bash, cli
 editor: markdown
 dateCreated: 2022-07-09T16:23:36.910Z
@@ -14,6 +14,7 @@ alias c='clear'
 alias s='sudo'
 
 alias services='systemctl list-units  --type=service  --state=running'
+alias listen='sudo netstat -ltup'
 
 alias install="sudo apt install $1 -y"
 alias web='cd /var/www/html'
