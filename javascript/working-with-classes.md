@@ -1,12 +1,38 @@
 ---
 title: Working with Classes in Javascript
 description: 
-published: 1
-date: 2022-07-04T02:32:31.812Z
+published: true
+date: 2022-07-10T23:28:51.260Z
 tags: classes, classlist, classname, hasclass, javascript
 editor: markdown
-dateCreated: 2022-06-29T05:25:57.041Z
+dateCreated: 2022-07-05T06:37:44.357Z
 ---
+
+# Selecting Elements by Class Name
+
+<br>
+
+**SYNTAX**
+
+Returns all elements with class "example" in an array like HTML collection.
+````javascript
+const el = document.getElementsByClassName("example");
+````
+
+## Accessing Class Elements
+
+The elements in a HTML collection can be accessed by index starting at [0].
+
+**EXAMPLE**
+````html
+<div class="class1"><h1>Class 1</h1></div>
+<div class="class1"><h2>Class 1 too</h2></div>
+
+# Selects the second class1 element
+const el = document.getElementsByClassName("class1")[1];
+````
+
+<br>
 
 # Check if an Element Contains a Specific Class
 
