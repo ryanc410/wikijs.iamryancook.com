@@ -2,7 +2,7 @@
 title: Working with Classes in Javascript
 description: 
 published: true
-date: 2022-07-10T23:28:51.260Z
+date: 2022-07-11T01:34:34.831Z
 tags: classes, classlist, classname, hasclass, javascript
 editor: markdown
 dateCreated: 2022-07-05T06:37:44.357Z
