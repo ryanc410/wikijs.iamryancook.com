@@ -1,11 +1,11 @@
 ---
 title: Collection of Random Bash Snippets
 description: 
-published: 1
-date: 2022-07-02T03:09:41.972Z
+published: true
+date: 2022-07-19T11:59:05.751Z
 tags: bash, snippets
 editor: markdown
-dateCreated: 2022-07-02T03:09:37.750Z
+dateCreated: 2022-07-05T06:37:33.445Z
 ---
 
 # Check the SSH Log file for newly created Users
@@ -197,7 +197,7 @@ wc -l FILENAME.txt | awk '{ print $1 }'
 <br>
 
 
-# Read a File line by line
+# Read a File Line by Line
 
 <br>
 
@@ -289,4 +289,12 @@ echo "Enter the Path to the directory you want to password protect:"
         echo "Enter the Path to the Directory you want to password protect:"
         read web_dir
     done
+````
+
+# Break down an array to one Element per line
+
+<br>
+
+````bash
+printf "%s\n" "${array[@]}"
 ````
