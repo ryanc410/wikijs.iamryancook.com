@@ -21,7 +21,7 @@ alias web='cd /var/www/html'
 alias vhosts='cd /etc/apache2/sites-available'
 alias phpdir='cd /etc/php/*.*/'
 
-alias checklog='cat /var/log/apache2/error.log"
+alias checklog='cat /var/log/apache2/error.log'
 
 alias restart="sudo systemctl restart $1"
 alias start="sudo systemctl start $1"
