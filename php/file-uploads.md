@@ -1,11 +1,11 @@
 ---
 title: Handling File Uploads with PHP
 description: 
-published: 1
-date: 2022-07-02T03:37:22.730Z
-tags: php, file-uploads, forms
+published: true
+date: 2022-08-28T15:48:39.224Z
+tags: forms, php, file-uploads
 editor: markdown
-dateCreated: 2022-07-01T02:32:25.579Z
+dateCreated: 2022-08-28T15:41:46.583Z
 ---
 
 # Adding File Upload Field to a Form
