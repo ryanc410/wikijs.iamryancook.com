@@ -2,7 +2,7 @@
 title: PDO Connection Class
 description: Example of using OOP to handle database actions in PHP
 published: true
-date: 2022-09-14T11:55:02.312Z
+date: 2022-09-16T12:37:11.336Z
 tags: php, database, oop, class, pdo
 editor: markdown
 dateCreated: 2022-09-14T11:55:02.312Z
@@ -10,6 +10,7 @@ dateCreated: 2022-09-14T11:55:02.312Z
 
 # Database Class Example
 ````php
+<?php
 class DatabaseClass{	
 	
         private $connection = null;
@@ -89,6 +90,7 @@ class DatabaseClass{
         }
 		
     }
+?>
 ````
 
 # How to Use
