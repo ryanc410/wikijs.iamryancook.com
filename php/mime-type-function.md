@@ -1,8 +1,8 @@
 ---
-title: Function mime_content_type
+title: mime_content_type
 description: Returns the Mime Type of a File
 published: true
-date: 2022-09-22T22:13:33.348Z
+date: 2022-10-18T06:15:36.703Z
 tags: file-system, mime-type, mime_content_type, file_extension, custom-functions
 editor: markdown
 dateCreated: 2022-09-22T22:13:33.348Z
