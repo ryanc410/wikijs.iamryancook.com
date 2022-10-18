@@ -1,11 +1,11 @@
 ---
-title: Collection of Random Bash Snippets
+title: Bash Snippets
 description: 
 published: true
-date: 2022-07-19T11:59:05.751Z
+date: 2022-10-18T05:07:36.853Z
 tags: bash, snippets
 editor: markdown
-dateCreated: 2022-07-05T06:37:33.445Z
+dateCreated: 2022-08-28T15:40:14.464Z
 ---
 
 # Check the SSH Log file for newly created Users
