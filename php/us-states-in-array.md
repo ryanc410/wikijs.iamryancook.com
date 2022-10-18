@@ -1,11 +1,11 @@
 ---
-title: Array Containing 50 US States and Abbreviations
-description: 
+title: U.S. States Array
+description: Array containing all 50 US states
 published: true
-date: 2022-07-26T02:27:29.358Z
-tags: php, states, array
+date: 2022-10-18T06:14:24.405Z
+tags: states, php, array
 editor: markdown
-dateCreated: 2022-07-26T02:27:29.358Z
+dateCreated: 2022-08-28T15:42:22.784Z
 ---
 
 # PHP Array Containing the 50 US States
